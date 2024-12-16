@@ -9,7 +9,7 @@ import {
   TableHeader,
   TableRow,
   TableBody,
-} from "@/components/ui/table";
+} from "./table";
 import {
   DropdownMenu,
   DropdownMenuTrigger,
